@@ -2,6 +2,14 @@
 ### I love solving bugs
 ![image](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
 
+## I'm a Fullstack developer
+I mainly work with
+* React
+* Node
+* Express
+* Apollo GraphQL
+* MongoDB
+
 <!--
 **JethroSama/JethroSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
