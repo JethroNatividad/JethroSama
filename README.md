@@ -9,6 +9,7 @@ I mainly work with
 * Express
 * Apollo GraphQL
 * MongoDB
+* Android Studio
 
 <!--
 **JethroSama/JethroSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
