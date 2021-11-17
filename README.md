@@ -9,6 +9,6 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-# I love solving bugs
+### I love solving bugs
 ![image](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
 
