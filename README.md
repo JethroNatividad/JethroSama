@@ -1,7 +1,8 @@
 # Welcome to my profile
 
-- 🔭 I’m currently working on a visual sorting algorithm site
-- 🌱 I’m currently learning algorithms
+<!-- - 🔭 I’m currently working on a visual sorting algorithm site -->
+
+<!-- - 🌱 I’m currently learning algorithms -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
